@@ -1,0 +1,614 @@
+Weather,"""Road_Type""","""Time_of_Day""","""Traffic_Density""","""Speed_Limit""","""Number_of_Vehicles""","""Driver_Alcohol""","""Accident_Severity""","""Road_Condition""","""Vehicle_Type""","""Driver_Age""","""Driver_Experience""","""Road_Light_Condition""","""Accident"""
+Rainy,"""City Road""","""Morning""","""1.0""",100,5,0,"""Unspecified""","""Wet""","""Car""",51,48,"""Artificial Light""",0
+Clear,"""Rural Road""","""Night""","""0""",120,3,0,"""Moderate""","""Wet""","""Truck""",49,43,"""Artificial Light""",0
+Rainy,"""Highway""","""Evening""","""1.0""",60,4,0,"""Low""","""Icy""","""Car""",54,52,"""Artificial Light""",0
+Clear,"""City Road""","""Afternoon""","""2.0""",60,3,0,"""Low""","""Under Construction""","""Bus""",34,31,"""Daylight""",0
+Rainy,"""Highway""","""Morning""","""1.0""",195,11,0,"""Low""","""Dry""","""Car""",62,55,"""Artificial Light""",1
+Clear,"""Rural Road""","""Night""","""0.0""",120,3,0,"""Moderate""","""Not Determind""","""Truck""",49,43,"""Artificial Light""",0
+Foggy,"""Highway""","""Afternoon""","""0.0""",60,4,0,"""Low""","""Dry""","""Truck""",27,26,"""Daylight""",1
+Rainy,"""City Road""","""Afternoon""","""0.0""",60,4,0,"""Low""","""Dry""","""Car""",29,22,"""Artificial Light""",1
+Stormy,"""Highway""","""Morning""","""1.0""",60,2,0,"""High""","""Icy""","""Car""",38,29,"""Artificial Light""",0
+Rainy,"""City Road""","""Afternoon""","""2.0""",30,2,0,"""Low""","""Dry""","""Truck""",50,48,"""Artificial Light""",0
+Clear,"""Mountain Road""","""Night""","""2.0""",100,5,0,"""Low""","""Dry""","""Motorcycle""",47,38,"""Artificial Light""",1
+Unknown,"""Rural Road""","""Afternoon""","""0.0""",60,4,0,"""Unspecified""","""Dry""","""Car""",25,16,"""Artificial Light""",0
+Rainy,"""City Road""","""Night""","""0.0""",30,1,1,"""Moderate""","""Not Determind""","""Motorcycle""",67,63,"""Artificial Light""",1
+Rainy,"""City Road""","""Unknown""","""0.0""",60,5,0,"""Moderate""","""Wet""","""Car""",48,41,"""Daylight""",0
+Foggy,"""City Road""","""Night""","""1.0""",60,3,0,"""Moderate""","""Wet""","""Motorcycle""",35,32,"""No Light""",0
+Clear,"""City Road""","""Afternoon""","""1.0""",50,1,0,"""Moderate""","""Dry""","""Car""",59,53,"""Daylight""",1
+Clear,"""City Road""","""Morning""","""2.0""",60,2,0,"""Low""","""Dry""","""Car""",27,23,"""Daylight""",0
+Foggy,"""Rural Road""","""Evening""","""0.0""",100,5,0,"""Moderate""","""Icy""","""Car""",32,24,"""Unknown""",0
+Clear,"""Highway""","""Morning""","""0.0""",30,1,0,"""Low""","""Dry""","""Car""",53,47,"""Daylight""",0
+Rainy,"""Rural Road""","""Afternoon""","""0.0""",30,4,1,"""Low""","""Under Construction""","""Unknown""",69,64,"""Daylight""",0
+Rainy,"""Highway""","""Morning""","""1.0""",50,3,0,"""Low""","""Not Determind""","""Car""",68,60,"""Daylight""",1
+Rainy,"""Highway""","""Afternoon""","""0.0""",100,3,0,"""High""","""Wet""","""Car""",28,25,"""Artificial Light""",0
+Foggy,"""Rural Road""","""Morning""","""1.0""",60,2,1,"""Moderate""","""Under Construction""","""Car""",40,38,"""Artificial Light""",1
+Unknown,"""City Road""","""Evening""","""0.0""",100,2,0,"""Low""","""Dry""","""Car""",30,23,"""Artificial Light""",0
+Stormy,"""Not Determined""","""Afternoon""","""2.0""",80,3,0,"""Moderate""","""Under Construction""","""Truck""",60,57,"""Daylight""",1
+Unknown,"""Highway""","""Afternoon""","""1.0""",30,5,0,"""Moderate""","""Dry""","""Car""",63,55,"""Artificial Light""",1
+Foggy,"""Highway""","""Night""","""0.0""",100,1,0,"""Low""","""Under Construction""","""Car""",59,57,"""Artificial Light""",0
+Clear,"""Highway""","""Morning""","""1.0""",60,3,0,"""Low""","""Icy""","""Car""",65,57,"""Artificial Light""",1
+Rainy,"""Mountain Road""","""Afternoon""","""1.0""",60,1,0,"""Low""","""Dry""","""Car""",18,13,"""No Light""",0
+Clear,"""City Road""","""Evening""","""2.0""",50,5,1,"""Low""","""Dry""","""Car""",55,52,"""Unknown""",0
+Rainy,"""Not Determined""","""Night""","""1.0""",50,5,0,"""Low""","""Under Construction""","""Truck""",45,36,"""Daylight""",1
+Clear,"""Highway""","""Morning""","""0.0""",60,5,0,"""Low""","""Under Construction""","""Car""",40,37,"""Artificial Light""",0
+Foggy,"""Highway""","""Night""","""0.0""",60,5,0,"""Low""","""Dry""","""Car""",69,63,"""Daylight""",0
+Snowy,"""Not Determined""","""Evening""","""2.0""",50,5,1,"""Moderate""","""Dry""","""Car""",33,32,"""Artificial Light""",0
+Foggy,"""Highway""","""Evening""","""0.0""",60,1,1,"""Low""","""Wet""","""Car""",22,21,"""Daylight""",0
+Rainy,"""Mountain Road""","""Afternoon""","""0.0""",60,5,1,"""High""","""Dry""","""Bus""",26,25,"""Daylight""",0
+Clear,"""Highway""","""Night""","""1.0""",30,1,0,"""Low""","""Wet""","""Car""",59,54,"""Artificial Light""",0
+Clear,"""City Road""","""Afternoon""","""1.0""",60,5,0,"""Low""","""Dry""","""Truck""",23,14,"""Daylight""",0
+Clear,"""Highway""","""Evening""","""0.0""",80,5,0,"""Moderate""","""Wet""","""Car""",57,55,"""Daylight""",1
+Clear,"""Highway""","""Morning""","""0.0""",60,4,0,"""Low""","""Dry""","""Car""",26,25,"""Artificial Light""",0
+Clear,"""Highway""","""Unknown""","""2.0""",60,5,0,"""Low""","""Dry""","""Truck""",34,25,"""Artificial Light""",1
+Snowy,"""City Road""","""Morning""","""2.0""",80,1,0,"""Low""","""Wet""","""Truck""",27,19,"""Unknown""",0
+Rainy,"""City Road""","""Afternoon""","""2.0""",100,3,0,"""Low""","""Dry""","""Car""",57,49,"""Unknown""",0
+Foggy,"""Highway""","""Afternoon""","""1.0""",50,5,0,"""Low""","""Icy""","""Car""",43,39,"""Artificial Light""",1
+Rainy,"""Highway""","""Afternoon""","""0.0""",100,4,1,"""Moderate""","""Dry""","""Car""",23,16,"""Artificial Light""",0
+Foggy,"""Highway""","""Evening""","""2.0""",100,5,1,"""Low""","""Dry""","""Car""",64,55,"""Daylight""",1
+Rainy,"""Not Determined""","""Evening""","""1.0""",50,2,0,"""Moderate""","""Under Construction""","""Car""",67,58,"""No Light""",0
+Clear,"""City Road""","""Morning""","""2.0""",50,1,0,"""Low""","""Dry""","""Car""",67,66,"""Artificial Light""",0
+Clear,"""Highway""","""Afternoon""","""1.0""",80,3,1,"""Low""","""Dry""","""Car""",56,48,"""No Light""",0
+Foggy,"""Rural Road""","""Morning""","""0.0""",80,4,0,"""Low""","""Dry""","""Motorcycle""",40,32,"""Daylight""",0
+Rainy,"""Highway""","""Night""","""1.0""",30,1,0,"""Low""","""Dry""","""Car""",54,54,"""Daylight""",0
+Clear,"""Highway""","""Afternoon""","""2.0""",80,3,0,"""Low""","""Dry""","""Car""",52,43,"""Artificial Light""",0
+Unknown,"""Mountain Road""","""Evening""","""0""",206,13,0,"""Low""","""Icy""","""Motorcycle""",20,17,"""Unknown""",0
+Foggy,"""Highway""","""Evening""","""2.0""",30,5,0,"""High""","""Wet""","""Car""",35,26,"""Artificial Light""",1
+Clear,"""City Road""","""Evening""","""1.0""",80,3,0,"""Moderate""","""Icy""","""Car""",35,31,"""Unknown""",0
+Snowy,"""Highway""","""Morning""","""2.0""",60,4,0,"""Low""","""Wet""","""Car""",50,43,"""Daylight""",1
+Rainy,"""Highway""","""Afternoon""","""0.0""",60,4,0,"""Low""","""Under Construction""","""Car""",65,60,"""Daylight""",0
+Clear,"""Highway""","""Afternoon""","""1.0""",50,3,0,"""Moderate""","""Not Determind""","""Motorcycle""",41,38,"""Daylight""",1
+Rainy,"""Rural Road""","""Afternoon""","""0.0""",60,2,0,"""Moderate""","""Under Construction""","""Car""",59,53,"""Daylight""",0
+Clear,"""Highway""","""Morning""","""2.0""",50,3,0,"""Low""","""Icy""","""Car""",24,21,"""Artificial Light""",0
+Unknown,"""Highway""","""Evening""","""0.0""",30,5,0,"""Moderate""","""Dry""","""Car""",65,59,"""Daylight""",1
+Rainy,"""Highway""","""Evening""","""0.0""",100,2,0,"""Low""","""Icy""","""Truck""",37,29,"""Daylight""",1
+Rainy,"""Highway""","""Afternoon""","""0.0""",60,2,0,"""Low""","""Dry""","""Car""",26,23,"""Artificial Light""",0
+Foggy,"""Rural Road""","""Morning""","""0.0""",30,3,0,"""High""","""Dry""","""Car""",42,42,"""Artificial Light""",0
+Clear,"""Highway""","""Evening""","""0.0""",80,2,0,"""Low""","""Icy""","""Car""",69,64,"""Artificial Light""",1
+Snowy,"""Highway""","""Night""","""2.0""",50,4,0,"""High""","""Dry""","""Bus""",21,14,"""Daylight""",0
+Clear,"""Highway""","""Evening""","""2.0""",60,5,1,"""Moderate""","""Icy""","""Car""",68,65,"""Artificial Light""",0
+Clear,"""City Road""","""Night""","""2.0""",80,1,0,"""Low""","""Dry""","""Car""",55,46,"""No Light""",0
+Clear,"""City Road""","""Afternoon""","""2.0""",60,4,0,"""High""","""Wet""","""Unknown""",41,41,"""Artificial Light""",1
+Foggy,"""Mountain Road""","""Evening""","""2.0""",50,2,0,"""High""","""Icy""","""Truck""",21,18,"""No Light""",0
+Clear,"""Mountain Road""","""Afternoon""","""0.0""",60,1,0,"""Low""","""Dry""","""Bus""",65,57,"""Artificial Light""",0
+Snowy,"""Mountain Road""","""Morning""","""0.0""",50,4,0,"""Low""","""Icy""","""Car""",55,52,"""No Light""",0
+Clear,"""Mountain Road""","""Afternoon""","""1.0""",100,2,0,"""Low""","""Dry""","""Unknown""",28,26,"""Artificial Light""",1
+Snowy,"""Highway""","""Afternoon""","""2.0""",50,5,0,"""Low""","""Under Construction""","""Motorcycle""",30,21,"""Artificial Light""",0
+Clear,"""Highway""","""Night""","""2.0""",60,2,1,"""Low""","""Dry""","""Bus""",65,57,"""Artificial Light""",1
+Rainy,"""Highway""","""Afternoon""","""2.0""",80,3,1,"""Low""","""Dry""","""Motorcycle""",62,60,"""Daylight""",1
+Clear,"""Highway""","""Afternoon""","""1.0""",50,3,0,"""Moderate""","""Dry""","""Car""",24,22,"""Artificial Light""",0
+Foggy,"""City Road""","""Morning""","""1.0""",30,4,0,"""Unspecified""","""Icy""","""Car""",68,61,"""Daylight""",0
+Clear,"""City Road""","""Evening""","""1.0""",80,2,0,"""Low""","""Dry""","""Unknown""",19,13,"""Artificial Light""",0
+Rainy,"""City Road""","""Afternoon""","""1.0""",30,5,1,"""Moderate""","""Icy""","""Car""",54,53,"""Artificial Light""",0
+Rainy,"""City Road""","""Afternoon""","""1.0""",178,12,0,"""Moderate""","""Wet""","""Car""",67,59,"""Daylight""",1
+Rainy,"""Highway""","""Afternoon""","""0.0""",60,1,0,"""Low""","""Under Construction""","""Car""",34,30,"""Daylight""",0
+Clear,"""City Road""","""Afternoon""","""1.0""",100,5,0,"""Moderate""","""Icy""","""Car""",34,26,"""Artificial Light""",0
+Rainy,"""City Road""","""Afternoon""","""1.0""",60,2,0,"""High""","""Dry""","""Motorcycle""",21,19,"""Daylight""",0
+Snowy,"""Rural Road""","""Afternoon""","""1.0""",60,1,0,"""High""","""Dry""","""Car""",43,42,"""Artificial Light""",1
+Rainy,"""Not Determined""","""Morning""","""2.0""",30,2,0,"""Low""","""Icy""","""Car""",52,51,"""Daylight""",0
+Snowy,"""Rural Road""","""Evening""","""1.0""",50,5,0,"""Low""","""Wet""","""Motorcycle""",64,56,"""No Light""",0
+Clear,"""Rural Road""","""Afternoon""","""1.0""",60,1,0,"""Low""","""Icy""","""Car""",60,56,"""Daylight""",0
+Clear,"""City Road""","""Morning""","""0.0""",80,1,0,"""Low""","""Wet""","""Motorcycle""",50,42,"""No Light""",0
+Clear,"""City Road""","""Morning""","""1.0""",60,3,0,"""Low""","""Wet""","""Car""",32,27,"""Daylight""",0
+Unknown,"""Not Determined""","""Unknown""","""1.0""",208,11,0,"""Low""","""Icy""","""Motorcycle""",52,50,"""Artificial Light""",0
+Clear,"""City Road""","""Afternoon""","""2.0""",50,5,1,"""Low""","""Dry""","""Car""",36,33,"""Daylight""",1
+Clear,"""City Road""","""Morning""","""0.0""",80,1,0,"""Moderate""","""Dry""","""Motorcycle""",36,36,"""Artificial Light""",1
+Clear,"""Highway""","""Afternoon""","""1.0""",50,5,0,"""Moderate""","""Dry""","""Car""",27,20,"""Artificial Light""",1
+Snowy,"""City Road""","""Night""","""0.0""",60,3,0,"""Moderate""","""Dry""","""Car""",45,43,"""Daylight""",0
+Unknown,"""Rural Road""","""Night""","""1.0""",80,4,0,"""Low""","""Wet""","""Car""",68,67,"""Daylight""",0
+Rainy,"""Highway""","""Morning""","""0.0""",60,4,0,"""Moderate""","""Dry""","""Car""",69,69,"""No Light""",1
+Clear,"""City Road""","""Unknown""","""0.0""",50,1,0,"""Moderate""","""Under Construction""","""Car""",43,40,"""Artificial Light""",0
+Snowy,"""City Road""","""Night""","""1.0""",100,3,0,"""High""","""Dry""","""Bus""",33,25,"""Artificial Light""",0
+Clear,"""Highway""","""Evening""","""0.0""",120,5,0,"""Moderate""","""Under Construction""","""Truck""",53,53,"""Unknown""",0
+Clear,"""City Road""","""Morning""","""2.0""",50,1,0,"""Low""","""Dry""","""Car""",62,53,"""Artificial Light""",1
+Clear,"""Highway""","""Afternoon""","""2.0""",50,1,0,"""Low""","""Under Construction""","""Truck""",60,52,"""Artificial Light""",0
+Clear,"""Highway""","""Afternoon""","""2.0""",60,4,0,"""Low""","""Wet""","""Car""",62,61,"""Unknown""",0
+Foggy,"""City Road""","""Afternoon""","""0.0""",100,4,0,"""High""","""Dry""","""Truck""",63,62,"""Artificial Light""",1
+Snowy,"""Highway""","""Afternoon""","""2.0""",50,5,0,"""Low""","""Icy""","""Truck""",58,55,"""Daylight""",0
+Snowy,"""Highway""","""Unknown""","""0""",60,4,0,"""Unspecified""","""Dry""","""Truck""",48,44,"""No Light""",1
+Rainy,"""Rural Road""","""Afternoon""","""0.0""",80,2,0,"""Low""","""Dry""","""Car""",45,39,"""Artificial Light""",0
+Clear,"""Rural Road""","""Evening""","""2.0""",80,2,0,"""Unspecified""","""Dry""","""Car""",35,31,"""Daylight""",0
+Unknown,"""Highway""","""Evening""","""2.0""",50,3,0,"""Low""","""Wet""","""Car""",64,55,"""No Light""",0
+Stormy,"""City Road""","""Evening""","""2.0""",60,2,1,"""High""","""Dry""","""Truck""",65,57,"""Daylight""",0
+Clear,"""City Road""","""Evening""","""1.0""",30,4,1,"""Moderate""","""Dry""","""Car""",42,36,"""Artificial Light""",0
+Clear,"""Rural Road""","""Morning""","""0.0""",60,2,0,"""Low""","""Icy""","""Car""",68,61,"""No Light""",0
+Unknown,"""Highway""","""Morning""","""1.0""",80,3,0,"""Low""","""Dry""","""Car""",30,27,"""Daylight""",1
+Rainy,"""Highway""","""Morning""","""1.0""",80,1,1,"""Low""","""Wet""","""Car""",47,39,"""Daylight""",0
+Snowy,"""Rural Road""","""Evening""","""0.0""",80,1,0,"""Unspecified""","""Dry""","""Car""",58,52,"""Daylight""",0
+Rainy,"""Highway""","""Morning""","""0""",30,2,0,"""High""","""Under Construction""","""Car""",44,43,"""Daylight""",1
+Clear,"""Highway""","""Evening""","""2.0""",80,1,0,"""Low""","""Not Determind""","""Unknown""",48,44,"""No Light""",1
+Clear,"""Highway""","""Evening""","""1.0""",100,2,0,"""Moderate""","""Dry""","""Unknown""",68,60,"""Artificial Light""",0
+Rainy,"""City Road""","""Morning""","""1.0""",100,1,0,"""Low""","""Wet""","""Car""",18,10,"""Artificial Light""",0
+Clear,"""Rural Road""","""Night""","""1.0""",50,2,1,"""Low""","""Dry""","""Car""",27,26,"""Artificial Light""",1
+Rainy,"""Highway""","""Evening""","""0""",100,3,0,"""Low""","""Not Determind""","""Car""",41,33,"""Artificial Light""",1
+Rainy,"""Highway""","""Morning""","""1.0""",60,1,0,"""Low""","""Dry""","""Car""",32,29,"""Daylight""",0
+Clear,"""Highway""","""Unknown""","""1.0""",50,2,0,"""Unspecified""","""Dry""","""Car""",28,19,"""Daylight""",1
+Clear,"""City Road""","""Afternoon""","""0.0""",213,11,0,"""Low""","""Dry""","""Motorcycle""",65,56,"""Daylight""",1
+Rainy,"""Rural Road""","""Evening""","""2.0""",50,4,0,"""Low""","""Dry""","""Car""",46,42,"""Artificial Light""",0
+Clear,"""Not Determined""","""Morning""","""2.0""",60,2,0,"""Low""","""Icy""","""Car""",28,22,"""Artificial Light""",1
+Rainy,"""Highway""","""Evening""","""0.0""",60,3,0,"""Low""","""Wet""","""Car""",65,59,"""Artificial Light""",0
+Rainy,"""Highway""","""Evening""","""1.0""",30,1,0,"""Low""","""Dry""","""Car""",25,18,"""Daylight""",0
+Clear,"""Not Determined""","""Morning""","""0.0""",30,3,0,"""Low""","""Dry""","""Car""",21,13,"""No Light""",1
+Rainy,"""Highway""","""Evening""","""2.0""",30,2,1,"""Low""","""Wet""","""Car""",69,63,"""Daylight""",0
+Rainy,"""Highway""","""Night""","""0.0""",120,3,0,"""Moderate""","""Dry""","""Motorcycle""",20,19,"""Unknown""",0
+Rainy,"""Highway""","""Night""","""0""",120,5,0,"""Moderate""","""Under Construction""","""Car""",64,58,"""Artificial Light""",0
+Clear,"""Highway""","""Evening""","""2.0""",80,2,0,"""Moderate""","""Dry""","""Car""",52,45,"""Daylight""",0
+Clear,"""Rural Road""","""Evening""","""1.0""",60,5,0,"""Moderate""","""Dry""","""Truck""",37,33,"""Daylight""",1
+Foggy,"""Highway""","""Evening""","""0.0""",60,2,0,"""Moderate""","""Dry""","""Unknown""",62,53,"""Artificial Light""",0
+Clear,"""Rural Road""","""Afternoon""","""1.0""",50,1,0,"""Low""","""Dry""","""Car""",29,22,"""No Light""",1
+Rainy,"""City Road""","""Afternoon""","""2.0""",60,3,0,"""Low""","""Dry""","""Car""",37,30,"""Artificial Light""",0
+Rainy,"""Highway""","""Afternoon""","""0.0""",80,4,0,"""High""","""Dry""","""Car""",42,34,"""Unknown""",1
+Clear,"""Not Determined""","""Morning""","""1.0""",100,5,0,"""Low""","""Wet""","""Truck""",69,61,"""Daylight""",0
+Clear,"""City Road""","""Afternoon""","""0""",50,4,0,"""Moderate""","""Dry""","""Car""",49,47,"""Daylight""",0
+Clear,"""Highway""","""Morning""","""0.0""",60,4,1,"""High""","""Wet""","""Truck""",36,27,"""Daylight""",0
+Snowy,"""Highway""","""Night""","""0.0""",50,2,1,"""Unspecified""","""Dry""","""Car""",60,54,"""Artificial Light""",0
+Clear,"""Highway""","""Night""","""0.0""",60,5,0,"""Moderate""","""Dry""","""Truck""",36,31,"""Daylight""",1
+Clear,"""Highway""","""Evening""","""0.0""",60,2,1,"""Low""","""Wet""","""Unknown""",52,50,"""Daylight""",0
+Clear,"""City Road""","""Morning""","""2.0""",30,3,0,"""High""","""Dry""","""Car""",47,38,"""Artificial Light""",0
+Clear,"""Rural Road""","""Afternoon""","""2.0""",30,1,0,"""Low""","""Wet""","""Truck""",53,50,"""Daylight""",1
+Clear,"""City Road""","""Afternoon""","""0""",60,1,1,"""High""","""Icy""","""Bus""",41,35,"""Daylight""",1
+Clear,"""Highway""","""Morning""","""2.0""",60,3,0,"""Moderate""","""Dry""","""Motorcycle""",56,51,"""Artificial Light""",0
+Clear,"""Not Determined""","""Afternoon""","""1.0""",60,5,0,"""Low""","""Dry""","""Car""",50,41,"""Artificial Light""",0
+Rainy,"""Highway""","""Evening""","""2.0""",80,2,0,"""High""","""Dry""","""Motorcycle""",52,46,"""Daylight""",0
+Clear,"""City Road""","""Unknown""","""2.0""",50,2,0,"""Low""","""Icy""","""Car""",34,26,"""Artificial Light""",0
+Rainy,"""Highway""","""Afternoon""","""1.0""",60,2,0,"""Low""","""Dry""","""Car""",35,27,"""Daylight""",0
+Rainy,"""Highway""","""Evening""","""2.0""",60,3,0,"""Low""","""Under Construction""","""Car""",46,41,"""Unknown""",0
+Stormy,"""City Road""","""Evening""","""0.0""",190,14,1,"""High""","""Dry""","""Car""",69,62,"""Artificial Light""",1
+Foggy,"""City Road""","""Morning""","""0""",60,4,0,"""Low""","""Wet""","""Car""",51,43,"""Daylight""",1
+Snowy,"""Not Determined""","""Afternoon""","""0.0""",80,5,0,"""Low""","""Wet""","""Car""",45,41,"""Artificial Light""",1
+Clear,"""Highway""","""Afternoon""","""0.0""",60,4,0,"""High""","""Icy""","""Car""",19,15,"""Artificial Light""",0
+Rainy,"""City Road""","""Night""","""2.0""",100,3,0,"""Moderate""","""Under Construction""","""Car""",44,37,"""Daylight""",0
+Rainy,"""Highway""","""Evening""","""1.0""",196,11,0,"""Moderate""","""Icy""","""Car""",38,32,"""Daylight""",0
+Clear,"""City Road""","""Unknown""","""2.0""",60,1,1,"""Moderate""","""Dry""","""Car""",34,31,"""Artificial Light""",1
+Clear,"""Highway""","""Night""","""0.0""",60,1,0,"""Low""","""Icy""","""Car""",31,22,"""Artificial Light""",0
+Rainy,"""City Road""","""Evening""","""1.0""",80,1,0,"""Low""","""Wet""","""Car""",33,33,"""Daylight""",0
+Clear,"""Highway""","""Morning""","""0.0""",100,4,0,"""Low""","""Icy""","""Unknown""",50,50,"""Daylight""",0
+Stormy,"""Rural Road""","""Evening""","""1.0""",80,2,0,"""Low""","""Icy""","""Car""",21,14,"""Unknown""",1
+Clear,"""Rural Road""","""Afternoon""","""1.0""",50,3,0,"""Low""","""Dry""","""Motorcycle""",35,34,"""Artificial Light""",0
+Clear,"""Highway""","""Morning""","""1.0""",80,1,0,"""Moderate""","""Icy""","""Car""",45,36,"""No Light""",0
+Rainy,"""City Road""","""Morning""","""0""",30,4,1,"""Low""","""Dry""","""Car""",69,62,"""Daylight""",1
+Foggy,"""Highway""","""Afternoon""","""0.0""",50,2,0,"""Low""","""Dry""","""Car""",69,63,"""Daylight""",0
+Snowy,"""City Road""","""Afternoon""","""1.0""",50,3,0,"""Low""","""Not Determind""","""Car""",56,54,"""No Light""",0
+Foggy,"""City Road""","""Night""","""0.0""",188,10,1,"""Low""","""Icy""","""Car""",33,27,"""Artificial Light""",0
+Clear,"""Highway""","""Night""","""2.0""",80,1,0,"""High""","""Icy""","""Car""",46,41,"""Daylight""",0
+Clear,"""Highway""","""Evening""","""2.0""",100,4,0,"""Moderate""","""Icy""","""Truck""",52,43,"""Daylight""",0
+Clear,"""Highway""","""Morning""","""1.0""",100,4,0,"""Moderate""","""Dry""","""Motorcycle""",62,57,"""Artificial Light""",1
+Rainy,"""City Road""","""Morning""","""1.0""",50,4,0,"""Low""","""Dry""","""Car""",36,33,"""Artificial Light""",0
+Rainy,"""City Road""","""Afternoon""","""2.0""",30,2,0,"""Low""","""Under Construction""","""Motorcycle""",68,66,"""Daylight""",0
+Foggy,"""City Road""","""Afternoon""","""2.0""",30,3,0,"""Low""","""Dry""","""Car""",62,59,"""Daylight""",0
+Rainy,"""Highway""","""Afternoon""","""2.0""",100,3,0,"""High""","""Wet""","""Car""",43,38,"""Artificial Light""",0
+Clear,"""Highway""","""Morning""","""1.0""",60,5,0,"""Low""","""Wet""","""Truck""",63,60,"""Artificial Light""",0
+Stormy,"""Highway""","""Evening""","""1.0""",195,14,0,"""Moderate""","""Dry""","""Car""",46,38,"""No Light""",0
+Rainy,"""City Road""","""Unknown""","""2.0""",100,1,1,"""Low""","""Dry""","""Motorcycle""",48,46,"""Artificial Light""",0
+Rainy,"""Rural Road""","""Afternoon""","""2.0""",80,3,0,"""Unspecified""","""Dry""","""Truck""",33,33,"""Daylight""",0
+Clear,"""City Road""","""Afternoon""","""1.0""",80,1,1,"""Low""","""Dry""","""Car""",37,31,"""Artificial Light""",0
+Foggy,"""Highway""","""Evening""","""2.0""",60,1,0,"""Low""","""Dry""","""Car""",43,43,"""Daylight""",0
+Clear,"""Highway""","""Afternoon""","""2.0""",100,4,0,"""Low""","""Under Construction""","""Truck""",27,26,"""Daylight""",0
+Snowy,"""Mountain Road""","""Night""","""0.0""",50,5,0,"""Unspecified""","""Not Determind""","""Car""",32,31,"""Daylight""",0
+Clear,"""Highway""","""Afternoon""","""1.0""",80,5,0,"""Low""","""Icy""","""Car""",29,28,"""Artificial Light""",0
+Rainy,"""Rural Road""","""Morning""","""0.0""",100,4,0,"""Low""","""Not Determind""","""Car""",41,41,"""Artificial Light""",0
+Rainy,"""City Road""","""Morning""","""2.0""",80,1,0,"""Low""","""Under Construction""","""Car""",46,43,"""Artificial Light""",0
+Clear,"""Highway""","""Afternoon""","""0.0""",50,5,0,"""Moderate""","""Dry""","""Car""",24,18,"""Daylight""",0
+Clear,"""Mountain Road""","""Afternoon""","""0.0""",50,4,1,"""Moderate""","""Dry""","""Motorcycle""",66,59,"""Artificial Light""",0
+Foggy,"""City Road""","""Morning""","""0""",60,1,0,"""Moderate""","""Wet""","""Car""",46,41,"""Daylight""",0
+Rainy,"""Highway""","""Afternoon""","""0.0""",60,4,0,"""Low""","""Under Construction""","""Car""",65,60,"""Daylight""",0
+Rainy,"""Highway""","""Unknown""","""0.0""",60,3,0,"""Low""","""Dry""","""Car""",63,61,"""Daylight""",0
+Snowy,"""Highway""","""Afternoon""","""1.0""",60,5,0,"""Low""","""Dry""","""Truck""",61,60,"""Artificial Light""",0
+Clear,"""Highway""","""Evening""","""2.0""",60,1,0,"""Moderate""","""Wet""","""Truck""",50,45,"""Artificial Light""",0
+Clear,"""Rural Road""","""Afternoon""","""2.0""",80,5,0,"""Low""","""Wet""","""Car""",42,36,"""Artificial Light""",1
+Clear,"""Highway""","""Afternoon""","""1.0""",80,3,0,"""Low""","""Dry""","""Car""",24,24,"""Daylight""",0
+Stormy,"""Highway""","""Morning""","""1.0""",50,2,0,"""Low""","""Dry""","""Unknown""",23,14,"""Daylight""",0
+Clear,"""Highway""","""Morning""","""1.0""",100,5,0,"""Low""","""Icy""","""Unknown""",21,21,"""Artificial Light""",0
+Snowy,"""Highway""","""Morning""","""2.0""",60,4,0,"""Low""","""Wet""","""Car""",50,43,"""Daylight""",1
+Rainy,"""City Road""","""Morning""","""0.0""",50,3,0,"""High""","""Icy""","""Motorcycle""",58,49,"""Artificial Light""",0
+Rainy,"""Rural Road""","""Evening""","""0.0""",120,5,1,"""Moderate""","""Wet""","""Car""",38,30,"""Artificial Light""",0
+Foggy,"""Highway""","""Afternoon""","""0""",50,4,1,"""Moderate""","""Dry""","""Car""",43,41,"""Unknown""",0
+Foggy,"""City Road""","""Afternoon""","""2.0""",50,5,0,"""High""","""Wet""","""Car""",26,17,"""Artificial Light""",0
+Clear,"""City Road""","""Evening""","""1.0""",120,4,0,"""Low""","""Dry""","""Car""",38,37,"""Artificial Light""",1
+Clear,"""Highway""","""Morning""","""2.0""",100,2,0,"""Low""","""Dry""","""Car""",48,43,"""Daylight""",0
+Rainy,"""Mountain Road""","""Morning""","""2.0""",30,5,0,"""Low""","""Dry""","""Car""",30,28,"""Artificial Light""",0
+Clear,"""Highway""","""Unknown""","""1.0""",50,5,0,"""Low""","""Dry""","""Car""",46,37,"""No Light""",0
+Unknown,"""Mountain Road""","""Evening""","""2.0""",50,4,0,"""Moderate""","""Under Construction""","""Car""",18,17,"""Daylight""",1
+Rainy,"""Highway""","""Afternoon""","""0.0""",80,5,0,"""Low""","""Dry""","""Motorcycle""",24,23,"""Daylight""",0
+Clear,"""Highway""","""Evening""","""2.0""",60,5,0,"""Low""","""Not Determind""","""Car""",52,52,"""Daylight""",0
+Clear,"""Rural Road""","""Morning""","""1.0""",30,1,0,"""Low""","""Dry""","""Car""",21,21,"""Artificial Light""",0
+Clear,"""Highway""","""Evening""","""0.0""",100,4,1,"""Moderate""","""Wet""","""Car""",33,26,"""Artificial Light""",0
+Clear,"""Highway""","""Unknown""","""2.0""",60,4,1,"""Low""","""Icy""","""Car""",19,11,"""Artificial Light""",0
+Clear,"""Highway""","""Afternoon""","""0.0""",60,3,0,"""Low""","""Dry""","""Motorcycle""",41,41,"""No Light""",0
+Clear,"""Not Determined""","""Morning""","""0.0""",30,3,0,"""High""","""Dry""","""Car""",27,27,"""Artificial Light""",1
+Clear,"""Highway""","""Afternoon""","""1.0""",50,3,0,"""Moderate""","""Dry""","""Car""",26,17,"""Artificial Light""",0
+Clear,"""Highway""","""Morning""","""1.0""",60,3,0,"""Low""","""Icy""","""Car""",65,57,"""Artificial Light""",1
+Clear,"""Highway""","""Afternoon""","""0.0""",60,2,1,"""Low""","""Wet""","""Car""",41,41,"""Artificial Light""",1
+Unknown,"""Highway""","""Evening""","""0""",100,4,0,"""Moderate""","""Dry""","""Truck""",34,28,"""Artificial Light""",0
+Clear,"""Mountain Road""","""Unknown""","""2.0""",30,1,1,"""Moderate""","""Dry""","""Car""",43,38,"""Daylight""",0
+Clear,"""Highway""","""Evening""","""0.0""",80,5,0,"""Low""","""Dry""","""Car""",23,22,"""Daylight""",1
+Unknown,"""Highway""","""Afternoon""","""2.0""",80,2,0,"""Low""","""Dry""","""Car""",24,23,"""Daylight""",1
+Rainy,"""Highway""","""Evening""","""2.0""",100,3,0,"""Low""","""Icy""","""Car""",34,34,"""Artificial Light""",0
+Clear,"""City Road""","""Evening""","""2.0""",50,3,0,"""Low""","""Dry""","""Car""",49,44,"""Daylight""",1
+Clear,"""Highway""","""Night""","""1.0""",50,3,0,"""Moderate""","""Dry""","""Car""",36,35,"""Artificial Light""",1
+Unknown,"""Mountain Road""","""Evening""","""1.0""",60,1,1,"""Low""","""Dry""","""Car""",30,25,"""Artificial Light""",1
+Snowy,"""Highway""","""Afternoon""","""0.0""",30,3,1,"""Low""","""Dry""","""Unknown""",33,29,"""Daylight""",1
+Rainy,"""Highway""","""Afternoon""","""0""",50,5,0,"""Moderate""","""Dry""","""Truck""",40,36,"""Daylight""",0
+Unknown,"""Rural Road""","""Evening""","""0.0""",80,2,1,"""Low""","""Icy""","""Car""",25,23,"""Daylight""",0
+Unknown,"""Highway""","""Afternoon""","""1.0""",60,4,0,"""Low""","""Icy""","""Truck""",20,20,"""Daylight""",0
+Rainy,"""Rural Road""","""Afternoon""","""2.0""",80,3,0,"""Moderate""","""Wet""","""Truck""",64,57,"""Artificial Light""",1
+Stormy,"""City Road""","""Afternoon""","""0.0""",50,1,0,"""High""","""Dry""","""Car""",22,14,"""Artificial Light""",0
+Snowy,"""Highway""","""Afternoon""","""0.0""",50,5,0,"""Low""","""Dry""","""Unknown""",38,37,"""Artificial Light""",0
+Rainy,"""City Road""","""Morning""","""1.0""",50,1,0,"""Low""","""Wet""","""Car""",18,9,"""Artificial Light""",0
+Stormy,"""Highway""","""Night""","""1.0""",60,5,0,"""Low""","""Icy""","""Car""",27,19,"""Daylight""",1
+Foggy,"""Rural Road""","""Afternoon""","""2.0""",60,4,1,"""Moderate""","""Under Construction""","""Car""",58,54,"""Unknown""",1
+Clear,"""Rural Road""","""Morning""","""0""",100,2,0,"""Low""","""Dry""","""Truck""",60,59,"""Artificial Light""",1
+Rainy,"""Highway""","""Evening""","""1.0""",50,3,0,"""Low""","""Dry""","""Motorcycle""",65,63,"""Artificial Light""",1
+Clear,"""Highway""","""Afternoon""","""0.0""",60,1,0,"""Moderate""","""Icy""","""Car""",56,55,"""Daylight""",0
+Foggy,"""Highway""","""Evening""","""0.0""",60,3,1,"""High""","""Dry""","""Car""",53,53,"""Daylight""",0
+Rainy,"""Highway""","""Night""","""0.0""",100,5,0,"""Moderate""","""Icy""","""Car""",21,19,"""Artificial Light""",0
+Clear,"""City Road""","""Afternoon""","""2.0""",60,1,0,"""Low""","""Dry""","""Motorcycle""",60,52,"""Artificial Light""",0
+Clear,"""Highway""","""Afternoon""","""2.0""",100,2,0,"""Moderate""","""Dry""","""Car""",42,41,"""Artificial Light""",0
+Snowy,"""City Road""","""Morning""","""1.0""",100,1,1,"""Low""","""Icy""","""Car""",36,34,"""Daylight""",0
+Snowy,"""Mountain Road""","""Evening""","""2.0""",80,2,1,"""Moderate""","""Dry""","""Car""",23,22,"""Daylight""",1
+Clear,"""Highway""","""Unknown""","""2.0""",60,5,0,"""Low""","""Dry""","""Car""",61,52,"""No Light""",1
+Clear,"""Highway""","""Afternoon""","""0.0""",50,3,0,"""Low""","""Not Determind""","""Car""",50,45,"""Artificial Light""",0
+Clear,"""City Road""","""Afternoon""","""0""",30,1,1,"""High""","""Wet""","""Car""",36,31,"""Artificial Light""",0
+Snowy,"""Highway""","""Morning""","""2.0""",50,3,1,"""Moderate""","""Icy""","""Car""",29,29,"""Artificial Light""",0
+Clear,"""Highway""","""Night""","""1.0""",60,5,0,"""Low""","""Dry""","""Bus""",20,15,"""Artificial Light""",1
+Clear,"""Highway""","""Afternoon""","""1.0""",50,5,1,"""Moderate""","""Dry""","""Car""",27,24,"""Artificial Light""",0
+Snowy,"""Highway""","""Morning""","""2.0""",50,5,1,"""Low""","""Dry""","""Car""",31,29,"""Artificial Light""",0
+Clear,"""Mountain Road""","""Morning""","""0.0""",60,3,0,"""Low""","""Dry""","""Car""",33,29,"""Daylight""",0
+Clear,"""Highway""","""Evening""","""2.0""",50,4,0,"""High""","""Dry""","""Motorcycle""",27,18,"""No Light""",0
+Clear,"""Highway""","""Afternoon""","""0.0""",60,4,0,"""Low""","""Wet""","""Car""",25,20,"""Unknown""",0
+Clear,"""City Road""","""Evening""","""0""",50,2,0,"""Low""","""Dry""","""Car""",68,62,"""Artificial Light""",0
+Rainy,"""City Road""","""Afternoon""","""1.0""",100,3,0,"""Moderate""","""Wet""","""Car""",54,50,"""Artificial Light""",0
+Snowy,"""City Road""","""Evening""","""2.0""",60,3,0,"""Low""","""Wet""","""Truck""",38,34,"""Artificial Light""",0
+Clear,"""Highway""","""Evening""","""1.0""",60,2,0,"""Low""","""Wet""","""Car""",32,27,"""Artificial Light""",0
+Clear,"""Mountain Road""","""Afternoon""","""1.0""",30,5,1,"""Moderate""","""Wet""","""Car""",38,36,"""Artificial Light""",1
+Clear,"""City Road""","""Afternoon""","""0.0""",60,1,0,"""Moderate""","""Under Construction""","""Motorcycle""",43,40,"""Artificial Light""",1
+Clear,"""City Road""","""Evening""","""0.0""",50,1,1,"""Low""","""Wet""","""Truck""",57,53,"""Daylight""",1
+Clear,"""City Road""","""Unknown""","""2.0""",60,1,0,"""Moderate""","""Wet""","""Car""",53,49,"""Daylight""",0
+Stormy,"""City Road""","""Evening""","""1.0""",189,13,0,"""Low""","""Icy""","""Car""",68,60,"""Artificial Light""",0
+Foggy,"""Highway""","""Afternoon""","""1.0""",80,2,0,"""High""","""Icy""","""Car""",30,25,"""Artificial Light""",0
+Snowy,"""Highway""","""Evening""","""1.0""",30,5,0,"""Low""","""Dry""","""Car""",52,45,"""Daylight""",1
+Clear,"""Highway""","""Afternoon""","""2.0""",30,4,0,"""Low""","""Wet""","""Truck""",47,45,"""Daylight""",0
+Clear,"""Highway""","""Evening""","""1.0""",50,4,1,"""Low""","""Dry""","""Car""",29,25,"""Artificial Light""",0
+Rainy,"""Highway""","""Morning""","""2.0""",80,2,0,"""Low""","""Dry""","""Car""",43,35,"""Artificial Light""",1
+Unknown,"""Highway""","""Afternoon""","""0.0""",50,2,0,"""Unspecified""","""Dry""","""Car""",51,51,"""Artificial Light""",1
+Clear,"""Rural Road""","""Morning""","""0.0""",60,2,0,"""Low""","""Not Determind""","""Car""",68,61,"""No Light""",0
+Clear,"""Highway""","""Afternoon""","""1.0""",50,5,0,"""High""","""Icy""","""Car""",23,17,"""Artificial Light""",1
+Snowy,"""City Road""","""Afternoon""","""1.0""",60,1,0,"""Moderate""","""Dry""","""Motorcycle""",48,45,"""No Light""",1
+Clear,"""City Road""","""Afternoon""","""2.0""",60,4,0,"""Unspecified""","""Not Determind""","""Unknown""",32,24,"""Artificial Light""",1
+Rainy,"""City Road""","""Afternoon""","""2.0""",50,4,0,"""Low""","""Dry""","""Unknown""",20,15,"""Artificial Light""",0
+Snowy,"""Rural Road""","""Afternoon""","""2.0""",100,4,0,"""Low""","""Dry""","""Car""",40,36,"""Daylight""",1
+Clear,"""Not Determined""","""Evening""","""1.0""",30,5,1,"""Low""","""Icy""","""Motorcycle""",62,61,"""Daylight""",1
+Foggy,"""Rural Road""","""Afternoon""","""2.0""",60,5,0,"""Unspecified""","""Dry""","""Car""",28,24,"""Artificial Light""",0
+Clear,"""Not Determined""","""Afternoon""","""0.0""",100,1,0,"""Low""","""Under Construction""","""Car""",24,18,"""Unknown""",0
+Rainy,"""Rural Road""","""Morning""","""2.0""",60,2,1,"""Low""","""Icy""","""Car""",18,18,"""Daylight""",0
+Foggy,"""Highway""","""Afternoon""","""0""",100,4,0,"""Low""","""Icy""","""Car""",43,37,"""Daylight""",0
+Rainy,"""Highway""","""Afternoon""","""1.0""",100,2,0,"""Moderate""","""Dry""","""Bus""",26,18,"""Daylight""",0
+Rainy,"""City Road""","""Afternoon""","""0.0""",60,3,0,"""High""","""Icy""","""Car""",34,27,"""Artificial Light""",0
+Clear,"""City Road""","""Evening""","""1.0""",80,5,0,"""Low""","""Icy""","""Car""",43,41,"""Daylight""",0
+Rainy,"""Highway""","""Morning""","""0.0""",30,3,0,"""Unspecified""","""Dry""","""Car""",27,26,"""Daylight""",0
+Foggy,"""Highway""","""Morning""","""1.0""",80,3,0,"""Low""","""Icy""","""Motorcycle""",42,36,"""Unknown""",1
+Clear,"""Rural Road""","""Afternoon""","""1.0""",50,4,0,"""Low""","""Dry""","""Car""",49,40,"""Daylight""",0
+Clear,"""City Road""","""Unknown""","""2.0""",50,1,0,"""Low""","""Not Determind""","""Unknown""",56,52,"""Artificial Light""",0
+Snowy,"""Highway""","""Evening""","""1.0""",100,3,0,"""Moderate""","""Wet""","""Car""",54,53,"""Artificial Light""",0
+Clear,"""Highway""","""Night""","""0.0""",120,5,0,"""Moderate""","""Icy""","""Car""",67,63,"""Daylight""",1
+Clear,"""Rural Road""","""Evening""","""1.0""",30,3,0,"""Unspecified""","""Wet""","""Car""",41,35,"""Artificial Light""",1
+Unknown,"""Highway""","""Morning""","""0.0""",80,1,1,"""Unspecified""","""Wet""","""Car""",55,49,"""Artificial Light""",0
+Rainy,"""Highway""","""Afternoon""","""2.0""",60,5,0,"""Moderate""","""Dry""","""Unknown""",34,32,"""Artificial Light""",0
+Rainy,"""Highway""","""Night""","""1.0""",60,4,1,"""Low""","""Not Determind""","""Truck""",31,24,"""Daylight""",0
+Rainy,"""Highway""","""Night""","""2.0""",100,4,0,"""Moderate""","""Wet""","""Car""",22,21,"""Artificial Light""",0
+Clear,"""City Road""","""Morning""","""1.0""",60,2,0,"""Low""","""Dry""","""Car""",64,59,"""Unknown""",0
+Clear,"""Highway""","""Morning""","""0.0""",60,5,0,"""Unspecified""","""Wet""","""Car""",45,41,"""Artificial Light""",0
+Snowy,"""Rural Road""","""Evening""","""1.0""",80,2,0,"""Low""","""Wet""","""Car""",27,18,"""Daylight""",1
+Clear,"""Highway""","""Evening""","""1.0""",60,5,1,"""High""","""Dry""","""Car""",26,17,"""Daylight""",0
+Clear,"""Highway""","""Evening""","""2.0""",30,1,1,"""Unspecified""","""Icy""","""Car""",68,67,"""Artificial Light""",0
+Foggy,"""Not Determined""","""Afternoon""","""0.0""",60,3,0,"""Low""","""Icy""","""Car""",43,37,"""Artificial Light""",0
+Foggy,"""City Road""","""Evening""","""0.0""",100,1,0,"""Low""","""Dry""","""Car""",35,26,"""Artificial Light""",1
+Rainy,"""Highway""","""Night""","""2.0""",30,5,0,"""Low""","""Icy""","""Car""",56,55,"""Daylight""",1
+Snowy,"""City Road""","""Evening""","""1.0""",50,2,0,"""Low""","""Wet""","""Car""",67,65,"""Artificial Light""",1
+Clear,"""City Road""","""Morning""","""2.0""",50,1,0,"""Low""","""Dry""","""Car""",62,53,"""Artificial Light""",1
+Rainy,"""Mountain Road""","""Evening""","""2.0""",100,3,0,"""Moderate""","""Icy""","""Truck""",59,57,"""Artificial Light""",0
+Clear,"""Highway""","""Afternoon""","""0""",30,1,0,"""Low""","""Wet""","""Car""",25,24,"""Unknown""",0
+Clear,"""Highway""","""Afternoon""","""0.0""",60,4,0,"""High""","""Under Construction""","""Car""",24,19,"""Artificial Light""",0
+Clear,"""Highway""","""Afternoon""","""0.0""",100,5,0,"""Moderate""","""Dry""","""Car""",43,41,"""Daylight""",0
+Clear,"""Highway""","""Evening""","""1.0""",80,2,0,"""Moderate""","""Under Construction""","""Car""",24,21,"""No Light""",0
+Clear,"""Not Determined""","""Morning""","""0""",100,4,0,"""Moderate""","""Icy""","""Car""",40,35,"""Artificial Light""",1
+Foggy,"""Highway""","""Morning""","""0.0""",80,4,0,"""Low""","""Dry""","""Car""",56,51,"""No Light""",1
+Clear,"""City Road""","""Afternoon""","""0""",60,1,0,"""Low""","""Not Determind""","""Car""",49,47,"""No Light""",0
+Rainy,"""Rural Road""","""Afternoon""","""2.0""",60,4,0,"""Low""","""Dry""","""Car""",46,40,"""Daylight""",0
+Stormy,"""Highway""","""Night""","""1.0""",100,3,0,"""Moderate""","""Icy""","""Car""",29,21,"""Daylight""",0
+Rainy,"""Rural Road""","""Afternoon""","""1.0""",60,4,0,"""Low""","""Dry""","""Car""",52,44,"""Artificial Light""",0
+Clear,"""Mountain Road""","""Evening""","""0.0""",60,4,0,"""Unspecified""","""Dry""","""Car""",69,60,"""Daylight""",0
+Rainy,"""Highway""","""Afternoon""","""1.0""",60,2,0,"""Low""","""Dry""","""Unknown""",41,41,"""Unknown""",0
+Stormy,"""Mountain Road""","""Evening""","""2.0""",50,3,0,"""Low""","""Dry""","""Bus""",58,51,"""No Light""",0
+Clear,"""Highway""","""Morning""","""2.0""",120,3,0,"""Low""","""Wet""","""Car""",43,40,"""Daylight""",0
+Clear,"""Highway""","""Morning""","""2.0""",100,2,0,"""Low""","""Dry""","""Car""",48,43,"""Daylight""",0
+Clear,"""Highway""","""Night""","""0""",100,5,1,"""Moderate""","""Not Determind""","""Car""",67,64,"""Daylight""",1
+Clear,"""Highway""","""Afternoon""","""1.0""",100,2,0,"""Low""","""Dry""","""Car""",20,15,"""Artificial Light""",0
+Rainy,"""Highway""","""Afternoon""","""2.0""",60,5,0,"""Low""","""Not Determind""","""Car""",24,24,"""Artificial Light""",1
+Clear,"""Rural Road""","""Night""","""0.0""",60,5,0,"""Low""","""Wet""","""Truck""",46,45,"""Artificial Light""",0
+Clear,"""Highway""","""Night""","""2.0""",60,4,0,"""Low""","""Dry""","""Car""",55,51,"""Artificial Light""",1
+Clear,"""City Road""","""Morning""","""2.0""",50,1,0,"""Low""","""Dry""","""Car""",67,66,"""Artificial Light""",0
+Rainy,"""Not Determined""","""Morning""","""2.0""",50,4,0,"""Low""","""Dry""","""Truck""",22,18,"""Daylight""",0
+Clear,"""City Road""","""Evening""","""0""",80,4,0,"""Low""","""Dry""","""Car""",58,57,"""Daylight""",1
+Foggy,"""Not Determined""","""Evening""","""2.0""",100,4,0,"""Low""","""Dry""","""Car""",27,18,"""Artificial Light""",0
+Foggy,"""Highway""","""Evening""","""0.0""",50,3,0,"""Low""","""Dry""","""Car""",64,62,"""Artificial Light""",0
+Snowy,"""City Road""","""Night""","""2.0""",80,1,0,"""Low""","""Dry""","""Car""",57,54,"""Unknown""",0
+Clear,"""Highway""","""Afternoon""","""0.0""",60,1,0,"""Moderate""","""Icy""","""Car""",56,55,"""Daylight""",0
+Clear,"""City Road""","""Morning""","""0.0""",50,5,0,"""Moderate""","""Dry""","""Truck""",68,61,"""Daylight""",1
+Clear,"""Highway""","""Afternoon""","""2.0""",100,4,0,"""Low""","""Dry""","""Car""",39,34,"""Artificial Light""",1
+Rainy,"""Highway""","""Night""","""1.0""",100,5,0,"""Low""","""Wet""","""Motorcycle""",47,39,"""Unknown""",0
+Stormy,"""Highway""","""Morning""","""0.0""",60,1,0,"""Moderate""","""Dry""","""Car""",21,19,"""Artificial Light""",0
+Clear,"""Rural Road""","""Evening""","""0""",80,5,0,"""Low""","""Under Construction""","""Car""",59,54,"""Artificial Light""",0
+Stormy,"""Highway""","""Morning""","""2.0""",60,4,0,"""Low""","""Wet""","""Car""",31,29,"""Artificial Light""",0
+Rainy,"""Highway""","""Unknown""","""0.0""",80,2,1,"""Low""","""Dry""","""Truck""",23,19,"""Daylight""",0
+Foggy,"""Mountain Road""","""Morning""","""2.0""",193,11,0,"""Low""","""Icy""","""Truck""",28,23,"""Artificial Light""",1
+Clear,"""City Road""","""Evening""","""1.0""",60,5,0,"""Moderate""","""Dry""","""Bus""",36,33,"""No Light""",1
+Rainy,"""Highway""","""Evening""","""0.0""",100,1,0,"""Moderate""","""Wet""","""Car""",67,64,"""Daylight""",0
+Rainy,"""City Road""","""Evening""","""2.0""",80,2,0,"""Moderate""","""Icy""","""Bus""",55,54,"""No Light""",1
+Rainy,"""Highway""","""Morning""","""0.0""",100,2,0,"""Moderate""","""Dry""","""Car""",41,36,"""Unknown""",0
+Clear,"""City Road""","""Evening""","""2.0""",60,1,0,"""Low""","""Dry""","""Car""",69,64,"""Daylight""",0
+Foggy,"""Highway""","""Afternoon""","""0.0""",80,2,0,"""Low""","""Wet""","""Car""",40,36,"""Daylight""",0
+Rainy,"""Rural Road""","""Evening""","""2.0""",50,3,0,"""High""","""Icy""","""Car""",23,15,"""Artificial Light""",1
+Rainy,"""City Road""","""Night""","""1.0""",50,4,0,"""Moderate""","""Dry""","""Car""",32,23,"""Artificial Light""",0
+Snowy,"""Highway""","""Morning""","""2.0""",100,2,0,"""Low""","""Wet""","""Car""",46,44,"""Daylight""",0
+Stormy,"""Highway""","""Evening""","""2.0""",120,2,1,"""Low""","""Icy""","""Car""",40,40,"""Artificial Light""",0
+Foggy,"""Not Determined""","""Afternoon""","""1.0""",50,4,0,"""Low""","""Dry""","""Truck""",19,12,"""Daylight""",1
+Clear,"""Highway""","""Evening""","""0.0""",50,5,0,"""Low""","""Icy""","""Car""",65,57,"""Artificial Light""",0
+Snowy,"""Highway""","""Morning""","""1.0""",100,1,0,"""Low""","""Dry""","""Car""",68,60,"""Daylight""",0
+Foggy,"""Rural Road""","""Evening""","""2.0""",100,3,0,"""High""","""Not Determind""","""Motorcycle""",24,24,"""Daylight""",0
+Rainy,"""Highway""","""Night""","""1.0""",100,3,0,"""High""","""Wet""","""Truck""",67,64,"""Daylight""",0
+Rainy,"""Highway""","""Afternoon""","""2.0""",80,3,0,"""Moderate""","""Icy""","""Car""",30,28,"""Artificial Light""",0
+Foggy,"""City Road""","""Morning""","""1.0""",50,4,0,"""Low""","""Icy""","""Car""",36,34,"""Daylight""",1
+Rainy,"""City Road""","""Night""","""0""",80,4,0,"""Low""","""Dry""","""Car""",60,51,"""Daylight""",0
+Clear,"""Highway""","""Afternoon""","""1.0""",80,4,1,"""Low""","""Under Construction""","""Truck""",40,35,"""Daylight""",0
+Rainy,"""City Road""","""Unknown""","""0.0""",60,5,0,"""Moderate""","""Wet""","""Car""",48,41,"""Daylight""",0
+Clear,"""Rural Road""","""Morning""","""2.0""",60,4,0,"""Low""","""Icy""","""Car""",49,45,"""Artificial Light""",0
+Clear,"""Mountain Road""","""Evening""","""0.0""",60,3,0,"""Low""","""Icy""","""Car""",30,25,"""Artificial Light""",0
+Stormy,"""Highway""","""Night""","""0.0""",50,2,0,"""High""","""Dry""","""Car""",67,61,"""Daylight""",1
+Foggy,"""Highway""","""Afternoon""","""0.0""",100,4,0,"""Low""","""Dry""","""Truck""",28,25,"""Artificial Light""",1
+Clear,"""City Road""","""Morning""","""1.0""",120,1,0,"""High""","""Dry""","""Car""",59,54,"""Daylight""",0
+Clear,"""Rural Road""","""Morning""","""1.0""",80,4,0,"""Moderate""","""Icy""","""Car""",60,51,"""Artificial Light""",0
+Rainy,"""Highway""","""Morning""","""1.0""",30,3,0,"""Low""","""Dry""","""Car""",44,39,"""Artificial Light""",0
+Foggy,"""Highway""","""Afternoon""","""1.0""",30,5,0,"""Low""","""Under Construction""","""Car""",61,61,"""Daylight""",1
+Rainy,"""Highway""","""Evening""","""0.0""",60,3,0,"""High""","""Icy""","""Car""",18,9,"""Artificial Light""",0
+Snowy,"""Rural Road""","""Night""","""2.0""",80,3,1,"""Low""","""Dry""","""Car""",51,44,"""Artificial Light""",0
+Clear,"""Highway""","""Afternoon""","""1.0""",50,4,0,"""Moderate""","""Dry""","""Motorcycle""",58,55,"""Daylight""",0
+Clear,"""Rural Road""","""Evening""","""1.0""",80,5,0,"""Moderate""","""Wet""","""Unknown""",36,28,"""Daylight""",0
+Clear,"""Rural Road""","""Evening""","""0.0""",60,5,0,"""Low""","""Dry""","""Truck""",52,46,"""Daylight""",1
+Snowy,"""City Road""","""Evening""","""0.0""",50,1,0,"""Moderate""","""Wet""","""Car""",69,61,"""Daylight""",0
+Rainy,"""Highway""","""Evening""","""0.0""",30,3,0,"""Low""","""Dry""","""Car""",35,34,"""No Light""",0
+Snowy,"""City Road""","""Night""","""2.0""",60,2,1,"""High""","""Dry""","""Car""",20,14,"""Daylight""",0
+Rainy,"""Rural Road""","""Evening""","""2.0""",50,4,0,"""Moderate""","""Dry""","""Bus""",61,60,"""Daylight""",0
+Rainy,"""Highway""","""Afternoon""","""1.0""",50,5,0,"""Moderate""","""Icy""","""Truck""",39,39,"""Artificial Light""",0
+Snowy,"""City Road""","""Unknown""","""1.0""",60,2,0,"""Unspecified""","""Dry""","""Car""",43,37,"""Daylight""",1
+Clear,"""City Road""","""Morning""","""2.0""",60,1,0,"""Low""","""Dry""","""Unknown""",46,40,"""Artificial Light""",0
+Snowy,"""Highway""","""Night""","""2.0""",80,4,0,"""Low""","""Icy""","""Car""",68,66,"""Daylight""",0
+Rainy,"""Mountain Road""","""Morning""","""2.0""",100,1,0,"""Moderate""","""Dry""","""Car""",61,55,"""Artificial Light""",0
+Clear,"""Rural Road""","""Evening""","""2.0""",50,2,0,"""High""","""Dry""","""Car""",58,50,"""Artificial Light""",0
+Clear,"""Highway""","""Afternoon""","""1.0""",100,5,1,"""High""","""Under Construction""","""Car""",42,41,"""No Light""",1
+Clear,"""Highway""","""Night""","""2.0""",50,3,0,"""Low""","""Icy""","""Car""",43,37,"""Daylight""",0
+Clear,"""City Road""","""Night""","""1.0""",189,14,0,"""Moderate""","""Not Determind""","""Car""",33,31,"""Daylight""",1
+Foggy,"""City Road""","""Evening""","""2.0""",30,2,0,"""Low""","""Wet""","""Car""",63,62,"""Daylight""",0
+Rainy,"""Highway""","""Evening""","""1.0""",60,4,0,"""Low""","""Icy""","""Car""",54,52,"""Artificial Light""",0
+Rainy,"""Not Determined""","""Evening""","""1.0""",50,2,0,"""Low""","""Dry""","""Truck""",49,47,"""Artificial Light""",1
+Clear,"""City Road""","""Afternoon""","""1.0""",30,3,0,"""Low""","""Wet""","""Motorcycle""",26,22,"""Daylight""",0
+Foggy,"""Highway""","""Afternoon""","""0.0""",60,5,1,"""Low""","""Dry""","""Car""",57,56,"""Daylight""",1
+Clear,"""Highway""","""Evening""","""0.0""",100,2,0,"""Low""","""Dry""","""Motorcycle""",34,30,"""Artificial Light""",0
+Clear,"""City Road""","""Night""","""1.0""",50,5,0,"""Low""","""Dry""","""Motorcycle""",33,31,"""Daylight""",0
+Rainy,"""Rural Road""","""Morning""","""0.0""",80,4,1,"""Low""","""Under Construction""","""Car""",52,52,"""Artificial Light""",0
+Clear,"""City Road""","""Morning""","""1.0""",60,3,0,"""Moderate""","""Dry""","""Truck""",23,14,"""Daylight""",0
+Rainy,"""City Road""","""Morning""","""1.0""",80,2,0,"""Low""","""Icy""","""Car""",55,50,"""No Light""",0
+Clear,"""Rural Road""","""Evening""","""1.0""",100,1,0,"""Low""","""Icy""","""Car""",62,55,"""Artificial Light""",1
+Clear,"""Highway""","""Afternoon""","""2.0""",80,2,1,"""Moderate""","""Dry""","""Car""",44,41,"""Unknown""",0
+Clear,"""Highway""","""Morning""","""0""",50,4,0,"""Moderate""","""Dry""","""Motorcycle""",32,27,"""Daylight""",1
+Snowy,"""Highway""","""Afternoon""","""1.0""",60,4,0,"""Moderate""","""Dry""","""Truck""",48,44,"""No Light""",1
+Foggy,"""Not Determined""","""Morning""","""0.0""",30,3,0,"""Low""","""Icy""","""Car""",21,19,"""No Light""",1
+Snowy,"""Highway""","""Afternoon""","""0.0""",60,1,0,"""High""","""Under Construction""","""Car""",22,17,"""Artificial Light""",0
+Rainy,"""Rural Road""","""Afternoon""","""1.0""",60,3,0,"""Low""","""Dry""","""Car""",20,13,"""Daylight""",1
+Clear,"""Highway""","""Unknown""","""1.0""",60,3,0,"""Moderate""","""Under Construction""","""Truck""",41,36,"""No Light""",0
+Clear,"""City Road""","""Afternoon""","""1.0""",100,3,0,"""Moderate""","""Under Construction""","""Car""",38,38,"""Daylight""",1
+Stormy,"""Highway""","""Afternoon""","""1.0""",60,3,0,"""Low""","""Dry""","""Unknown""",42,34,"""Artificial Light""",0
+Snowy,"""Highway""","""Morning""","""2.0""",60,1,0,"""High""","""Dry""","""Car""",53,52,"""Daylight""",0
+Foggy,"""Highway""","""Night""","""1.0""",30,4,0,"""Unspecified""","""Under Construction""","""Car""",58,56,"""Daylight""",0
+Clear,"""Highway""","""Morning""","""0.0""",100,4,0,"""Low""","""Dry""","""Motorcycle""",24,20,"""Artificial Light""",1
+Snowy,"""Not Determined""","""Night""","""0.0""",100,2,0,"""Moderate""","""Dry""","""Car""",40,40,"""Daylight""",0
+Rainy,"""Highway""","""Morning""","""0.0""",80,1,0,"""Low""","""Dry""","""Car""",22,22,"""Artificial Light""",0
+Unknown,"""City Road""","""Afternoon""","""0.0""",50,5,0,"""Unspecified""","""Wet""","""Car""",29,27,"""Daylight""",0
+Stormy,"""Highway""","""Morning""","""0.0""",60,3,0,"""Moderate""","""Dry""","""Car""",54,53,"""Daylight""",1
+Clear,"""Highway""","""Night""","""1.0""",50,3,0,"""Low""","""Dry""","""Car""",46,44,"""Artificial Light""",1
+Clear,"""Highway""","""Morning""","""2.0""",30,2,0,"""Low""","""Dry""","""Car""",32,26,"""No Light""",0
+Clear,"""Highway""","""Morning""","""2.0""",80,2,0,"""Low""","""Dry""","""Truck""",40,37,"""Artificial Light""",1
+Stormy,"""Rural Road""","""Unknown""","""0.0""",199,11,0,"""Low""","""Dry""","""Car""",47,47,"""Artificial Light""",1
+Clear,"""Not Determined""","""Evening""","""1.0""",60,5,0,"""Moderate""","""Wet""","""Car""",34,33,"""Artificial Light""",0
+Rainy,"""City Road""","""Afternoon""","""2.0""",60,1,0,"""Moderate""","""Dry""","""Car""",32,30,"""Daylight""",1
+Foggy,"""Highway""","""Evening""","""1.0""",50,1,0,"""Moderate""","""Dry""","""Car""",46,39,"""Daylight""",0
+Snowy,"""Rural Road""","""Afternoon""","""1.0""",50,3,0,"""Moderate""","""Dry""","""Car""",67,62,"""Artificial Light""",0
+Clear,"""City Road""","""Morning""","""0.0""",60,5,0,"""Low""","""Wet""","""Motorcycle""",53,48,"""Artificial Light""",1
+Foggy,"""Highway""","""Morning""","""2.0""",50,4,1,"""Low""","""Wet""","""Car""",53,50,"""Artificial Light""",0
+Rainy,"""Mountain Road""","""Morning""","""2.0""",50,1,0,"""Moderate""","""Dry""","""Motorcycle""",61,54,"""Artificial Light""",0
+Rainy,"""Rural Road""","""Unknown""","""0.0""",192,10,1,"""Moderate""","""Dry""","""Motorcycle""",60,53,"""Artificial Light""",0
+Foggy,"""Rural Road""","""Afternoon""","""1.0""",30,4,1,"""Moderate""","""Not Determind""","""Car""",29,26,"""Artificial Light""",0
+Rainy,"""City Road""","""Evening""","""2.0""",80,4,0,"""Low""","""Icy""","""Car""",22,19,"""Artificial Light""",1
+Clear,"""City Road""","""Afternoon""","""0.0""",120,1,0,"""Moderate""","""Dry""","""Car""",46,40,"""Artificial Light""",1
+Clear,"""Rural Road""","""Afternoon""","""0""",50,5,0,"""Moderate""","""Dry""","""Car""",58,58,"""Artificial Light""",1
+Rainy,"""Highway""","""Morning""","""0.0""",100,4,0,"""Low""","""Dry""","""Car""",39,35,"""Unknown""",0
+Clear,"""City Road""","""Evening""","""0.0""",60,4,0,"""High""","""Dry""","""Car""",58,49,"""No Light""",0
+Rainy,"""City Road""","""Night""","""0.0""",60,2,0,"""Low""","""Dry""","""Car""",35,34,"""Artificial Light""",0
+Foggy,"""Not Determined""","""Morning""","""0.0""",100,3,0,"""High""","""Icy""","""Car""",46,43,"""Artificial Light""",0
+Clear,"""Highway""","""Night""","""1.0""",80,3,1,"""Low""","""Dry""","""Car""",32,24,"""Artificial Light""",0
+Clear,"""City Road""","""Morning""","""0.0""",80,2,0,"""Low""","""Dry""","""Car""",19,14,"""Artificial Light""",0
+Clear,"""Highway""","""Morning""","""1.0""",100,5,0,"""Low""","""Under Construction""","""Motorcycle""",19,13,"""Daylight""",0
+Snowy,"""City Road""","""Afternoon""","""1.0""",50,2,0,"""Low""","""Dry""","""Car""",34,27,"""Artificial Light""",0
+Clear,"""Highway""","""Evening""","""2.0""",80,3,0,"""Moderate""","""Dry""","""Truck""",48,40,"""Daylight""",0
+Unknown,"""Highway""","""Evening""","""1.0""",30,5,0,"""Low""","""Dry""","""Car""",59,59,"""Daylight""",0
+Stormy,"""Not Determined""","""Evening""","""2.0""",30,3,0,"""Unspecified""","""Icy""","""Car""",46,46,"""No Light""",1
+Rainy,"""Highway""","""Evening""","""2.0""",80,2,0,"""High""","""Dry""","""Unknown""",52,46,"""Daylight""",0
+Rainy,"""City Road""","""Evening""","""1.0""",213,14,0,"""Low""","""Dry""","""Car""",59,58,"""No Light""",0
+Clear,"""City Road""","""Afternoon""","""1.0""",100,1,0,"""Low""","""Under Construction""","""Truck""",49,40,"""Artificial Light""",0
+Rainy,"""Highway""","""Afternoon""","""1.0""",30,3,0,"""Unspecified""","""Dry""","""Motorcycle""",40,32,"""Daylight""",0
+Unknown,"""City Road""","""Morning""","""1.0""",50,1,0,"""Low""","""Under Construction""","""Motorcycle""",59,50,"""Daylight""",0
+Foggy,"""City Road""","""Evening""","""0.0""",50,3,0,"""Low""","""Under Construction""","""Motorcycle""",61,61,"""Daylight""",1
+Unknown,"""City Road""","""Morning""","""1.0""",60,2,0,"""Moderate""","""Dry""","""Car""",33,31,"""Artificial Light""",0
+Clear,"""Rural Road""","""Morning""","""1.0""",50,5,0,"""High""","""Icy""","""Truck""",50,41,"""No Light""",1
+Clear,"""Highway""","""Afternoon""","""1.0""",30,5,0,"""Moderate""","""Dry""","""Car""",63,55,"""Artificial Light""",1
+Snowy,"""Highway""","""Morning""","""0""",100,3,0,"""Low""","""Under Construction""","""Car""",64,57,"""Artificial Light""",1
+Rainy,"""Rural Road""","""Night""","""0.0""",30,3,1,"""Low""","""Dry""","""Car""",51,42,"""No Light""",0
+Clear,"""City Road""","""Afternoon""","""2.0""",50,2,0,"""Moderate""","""Wet""","""Car""",34,30,"""Daylight""",1
+Clear,"""Rural Road""","""Afternoon""","""0.0""",80,1,0,"""Low""","""Not Determind""","""Car""",64,61,"""Daylight""",0
+Unknown,"""Highway""","""Evening""","""1.0""",50,2,0,"""Low""","""Under Construction""","""Truck""",61,52,"""Daylight""",1
+Clear,"""Rural Road""","""Afternoon""","""2.0""",120,5,0,"""Low""","""Wet""","""Car""",19,17,"""Daylight""",0
+Unknown,"""Highway""","""Morning""","""2.0""",100,5,0,"""Unspecified""","""Wet""","""Unknown""",27,24,"""Artificial Light""",0
+Rainy,"""Highway""","""Afternoon""","""2.0""",30,1,0,"""Low""","""Icy""","""Car""",39,30,"""Artificial Light""",0
+Clear,"""Mountain Road""","""Night""","""0.0""",50,1,0,"""Low""","""Icy""","""Motorcycle""",40,39,"""Artificial Light""",0
+Rainy,"""Highway""","""Night""","""2.0""",50,5,0,"""Moderate""","""Under Construction""","""Car""",67,62,"""Daylight""",0
+Clear,"""Rural Road""","""Evening""","""0.0""",60,5,0,"""Low""","""Dry""","""Truck""",52,46,"""Daylight""",1
+Rainy,"""Rural Road""","""Evening""","""0.0""",80,3,1,"""Moderate""","""Dry""","""Truck""",47,40,"""Daylight""",0
+Clear,"""Rural Road""","""Afternoon""","""0.0""",30,4,0,"""Low""","""Dry""","""Car""",54,53,"""Daylight""",0
+Unknown,"""Highway""","""Afternoon""","""1.0""",30,3,0,"""Low""","""Dry""","""Motorcycle""",47,46,"""Artificial Light""",0
+Foggy,"""City Road""","""Morning""","""2.0""",60,4,0,"""Moderate""","""Dry""","""Car""",36,32,"""Artificial Light""",0
+Clear,"""Highway""","""Morning""","""0.0""",100,5,0,"""Low""","""Wet""","""Motorcycle""",41,32,"""Artificial Light""",1
+Rainy,"""Highway""","""Evening""","""2.0""",30,3,0,"""Low""","""Dry""","""Unknown""",64,63,"""Daylight""",0
+Rainy,"""Mountain Road""","""Morning""","""0.0""",50,4,0,"""Moderate""","""Under Construction""","""Car""",41,33,"""Daylight""",0
+Foggy,"""City Road""","""Evening""","""0.0""",60,2,1,"""Low""","""Icy""","""Car""",29,28,"""Daylight""",0
+Snowy,"""City Road""","""Evening""","""2.0""",100,5,0,"""Low""","""Icy""","""Truck""",60,57,"""Artificial Light""",0
+Clear,"""City Road""","""Evening""","""2.0""",60,2,0,"""Moderate""","""Dry""","""Car""",51,44,"""Artificial Light""",0
+Foggy,"""Rural Road""","""Night""","""1.0""",120,2,0,"""Moderate""","""Icy""","""Bus""",68,67,"""Artificial Light""",0
+Rainy,"""Highway""","""Morning""","""1.0""",80,1,0,"""Low""","""Dry""","""Car""",26,24,"""No Light""",0
+Stormy,"""City Road""","""Afternoon""","""2.0""",100,4,0,"""Low""","""Icy""","""Car""",68,65,"""No Light""",0
+Rainy,"""Highway""","""Afternoon""","""1.0""",120,1,0,"""Low""","""Dry""","""Car""",27,26,"""Daylight""",0
+Snowy,"""City Road""","""Evening""","""1.0""",80,5,0,"""Low""","""Dry""","""Unknown""",30,22,"""Daylight""",0
+Rainy,"""Highway""","""Afternoon""","""0.0""",80,4,0,"""Moderate""","""Wet""","""Car""",66,61,"""Artificial Light""",0
+Clear,"""Rural Road""","""Night""","""0.0""",60,2,0,"""Low""","""Dry""","""Car""",38,34,"""Artificial Light""",1
+Rainy,"""Highway""","""Afternoon""","""1.0""",120,3,0,"""High""","""Wet""","""Bus""",64,61,"""Artificial Light""",0
+Clear,"""Mountain Road""","""Evening""","""1.0""",50,3,0,"""Low""","""Dry""","""Car""",48,45,"""Artificial Light""",0
+Clear,"""Not Determined""","""Afternoon""","""2.0""",60,2,0,"""Moderate""","""Not Determind""","""Car""",37,30,"""Daylight""",0
+Clear,"""Highway""","""Morning""","""0.0""",60,1,0,"""Unspecified""","""Dry""","""Car""",48,39,"""Daylight""",1
+Clear,"""Rural Road""","""Night""","""1.0""",50,2,1,"""Low""","""Dry""","""Motorcycle""",42,35,"""Artificial Light""",1
+Snowy,"""Rural Road""","""Evening""","""2.0""",30,4,0,"""High""","""Dry""","""Truck""",45,45,"""Daylight""",0
+Rainy,"""Highway""","""Evening""","""0.0""",80,4,0,"""Moderate""","""Dry""","""Car""",28,20,"""Artificial Light""",1
+Foggy,"""Mountain Road""","""Afternoon""","""1.0""",60,4,0,"""Low""","""Under Construction""","""Car""",46,42,"""Artificial Light""",0
+Clear,"""Highway""","""Evening""","""0.0""",50,4,0,"""Low""","""Icy""","""Car""",37,31,"""Artificial Light""",1
+Foggy,"""City Road""","""Afternoon""","""0.0""",50,2,0,"""Low""","""Icy""","""Car""",58,49,"""Artificial Light""",1
+Foggy,"""Highway""","""Morning""","""2.0""",60,5,0,"""High""","""Wet""","""Car""",51,47,"""Artificial Light""",0
+Clear,"""Rural Road""","""Evening""","""1.0""",100,1,1,"""High""","""Dry""","""Truck""",54,46,"""Artificial Light""",0
+Rainy,"""Highway""","""Morning""","""2.0""",60,3,0,"""High""","""Dry""","""Car""",48,48,"""Artificial Light""",1
+Foggy,"""Not Determined""","""Afternoon""","""1.0""",80,2,0,"""Low""","""Dry""","""Car""",27,25,"""Daylight""",0
+Clear,"""City Road""","""Morning""","""2.0""",198,11,0,"""Low""","""Under Construction""","""Car""",62,60,"""Artificial Light""",0
+Clear,"""City Road""","""Morning""","""0.0""",60,2,0,"""Low""","""Under Construction""","""Car""",64,58,"""No Light""",0
+Clear,"""City Road""","""Morning""","""1.0""",192,10,0,"""Low""","""Dry""","""Car""",19,18,"""Artificial Light""",1
+Clear,"""Rural Road""","""Evening""","""2.0""",80,2,0,"""Unspecified""","""Dry""","""Car""",35,31,"""Daylight""",0
+Foggy,"""City Road""","""Evening""","""2.0""",60,4,0,"""Low""","""Icy""","""Car""",31,30,"""Daylight""",1
+Snowy,"""Rural Road""","""Afternoon""","""2.0""",30,5,1,"""Moderate""","""Dry""","""Car""",56,50,"""Artificial Light""",1
+Foggy,"""Rural Road""","""Morning""","""0""",60,5,0,"""Low""","""Icy""","""Truck""",32,31,"""No Light""",0
+Clear,"""Highway""","""Afternoon""","""0.0""",80,5,0,"""Low""","""Dry""","""Car""",22,14,"""Daylight""",0
+Snowy,"""Highway""","""Afternoon""","""2.0""",80,1,0,"""Low""","""Dry""","""Car""",54,54,"""Artificial Light""",0
+Unknown,"""City Road""","""Night""","""0""",50,2,0,"""Low""","""Icy""","""Car""",38,38,"""Unknown""",0
+Snowy,"""City Road""","""Evening""","""0.0""",60,5,0,"""Moderate""","""Dry""","""Car""",23,19,"""Unknown""",1
+Clear,"""Highway""","""Night""","""2.0""",30,2,1,"""Moderate""","""Dry""","""Car""",60,55,"""Artificial Light""",1
+Snowy,"""Highway""","""Afternoon""","""2.0""",50,4,0,"""Unspecified""","""Wet""","""Car""",44,35,"""Daylight""",0
+Foggy,"""City Road""","""Afternoon""","""1.0""",80,5,0,"""High""","""Wet""","""Car""",37,34,"""Daylight""",0
+Foggy,"""Mountain Road""","""Night""","""1.0""",60,1,0,"""Moderate""","""Under Construction""","""Car""",58,58,"""Daylight""",0
+Rainy,"""Highway""","""Night""","""0""",80,4,0,"""Moderate""","""Dry""","""Car""",69,66,"""Unknown""",0
+Rainy,"""Mountain Road""","""Afternoon""","""2.0""",30,5,0,"""Low""","""Dry""","""Car""",27,25,"""Artificial Light""",0
+Clear,"""City Road""","""Afternoon""","""1.0""",30,1,0,"""Low""","""Wet""","""Car""",65,61,"""Artificial Light""",0
+Rainy,"""Highway""","""Morning""","""1.0""",30,3,0,"""Low""","""Dry""","""Motorcycle""",69,64,"""Daylight""",0
+Clear,"""Not Determined""","""Evening""","""2.0""",50,3,0,"""Moderate""","""Dry""","""Car""",54,47,"""No Light""",0
+Snowy,"""Highway""","""Morning""","""1.0""",80,4,1,"""Moderate""","""Dry""","""Car""",33,27,"""Daylight""",0
+Clear,"""Highway""","""Morning""","""2.0""",60,5,0,"""Low""","""Wet""","""Motorcycle""",42,39,"""Daylight""",0
+Rainy,"""City Road""","""Evening""","""1.0""",80,3,0,"""High""","""Icy""","""Truck""",27,20,"""Daylight""",1
+Foggy,"""City Road""","""Afternoon""","""2.0""",50,2,0,"""Moderate""","""Wet""","""Truck""",55,47,"""Daylight""",0
+Clear,"""Highway""","""Evening""","""1.0""",60,4,0,"""Moderate""","""Icy""","""Car""",39,35,"""Daylight""",1
+Foggy,"""City Road""","""Evening""","""0.0""",80,3,0,"""Moderate""","""Under Construction""","""Motorcycle""",22,18,"""Daylight""",0
+Clear,"""Highway""","""Unknown""","""1.0""",206,11,0,"""Low""","""Icy""","""Car""",39,35,"""Unknown""",0
+Clear,"""City Road""","""Afternoon""","""0.0""",60,3,0,"""Low""","""Dry""","""Truck""",22,13,"""Daylight""",1
+Unknown,"""Highway""","""Unknown""","""1.0""",50,4,0,"""Low""","""Dry""","""Car""",52,48,"""Daylight""",0
+Clear,"""Highway""","""Afternoon""","""1.0""",80,5,0,"""Moderate""","""Dry""","""Car""",38,35,"""Daylight""",0
+Rainy,"""Highway""","""Morning""","""1.0""",50,3,1,"""Unspecified""","""Under Construction""","""Motorcycle""",27,22,"""Daylight""",0
+Rainy,"""Highway""","""Night""","""2.0""",80,3,0,"""Low""","""Dry""","""Car""",41,33,"""Artificial Light""",0
+Rainy,"""Mountain Road""","""Evening""","""0.0""",212,10,0,"""Low""","""Wet""","""Truck""",27,27,"""Artificial Light""",0
+Rainy,"""Highway""","""Night""","""1.0""",30,5,0,"""Low""","""Icy""","""Car""",55,54,"""Daylight""",0
+Snowy,"""Highway""","""Morning""","""2.0""",100,2,0,"""Moderate""","""Wet""","""Car""",26,17,"""Daylight""",0
+Clear,"""City Road""","""Afternoon""","""0.0""",60,5,0,"""Moderate""","""Dry""","""Car""",36,32,"""Artificial Light""",0
+Foggy,"""Highway""","""Night""","""1.0""",60,1,0,"""Moderate""","""Icy""","""Unknown""",60,52,"""No Light""",1
+Snowy,"""Highway""","""Afternoon""","""2.0""",30,1,0,"""Moderate""","""Dry""","""Truck""",39,37,"""Artificial Light""",1
+Foggy,"""City Road""","""Night""","""1.0""",80,4,0,"""Moderate""","""Dry""","""Car""",24,22,"""Daylight""",0
+Rainy,"""City Road""","""Morning""","""0.0""",80,5,0,"""Moderate""","""Dry""","""Car""",69,65,"""Daylight""",0
+Rainy,"""Highway""","""Night""","""1.0""",30,4,1,"""Low""","""Icy""","""Car""",54,51,"""No Light""",0
+Rainy,"""City Road""","""Morning""","""2.0""",50,4,0,"""Low""","""Dry""","""Car""",58,58,"""Daylight""",1
+Clear,"""Highway""","""Afternoon""","""2.0""",181,10,0,"""Moderate""","""Under Construction""","""Car""",62,54,"""Unknown""",0
+Foggy,"""City Road""","""Night""","""1.0""",60,1,0,"""Low""","""Dry""","""Truck""",32,26,"""Artificial Light""",1
+Stormy,"""Rural Road""","""Afternoon""","""2.0""",30,2,0,"""Moderate""","""Icy""","""Motorcycle""",47,43,"""Daylight""",0
+Rainy,"""Rural Road""","""Evening""","""1.0""",60,2,0,"""High""","""Dry""","""Car""",20,18,"""Daylight""",0
+Clear,"""Highway""","""Evening""","""1.0""",80,2,0,"""Moderate""","""Under Construction""","""Car""",24,21,"""No Light""",0
+Clear,"""Highway""","""Night""","""1.0""",80,3,0,"""Low""","""Icy""","""Car""",46,39,"""Daylight""",0
+Rainy,"""Not Determined""","""Night""","""1.0""",80,4,0,"""Low""","""Dry""","""Unknown""",64,56,"""Daylight""",1
+Clear,"""Highway""","""Afternoon""","""1.0""",60,4,0,"""Low""","""Wet""","""Car""",33,24,"""Artificial Light""",1
+Clear,"""City Road""","""Morning""","""2.0""",80,5,0,"""Moderate""","""Dry""","""Car""",33,30,"""Artificial Light""",0
+Clear,"""City Road""","""Evening""","""0.0""",60,5,0,"""Low""","""Dry""","""Truck""",66,62,"""Daylight""",1
+Foggy,"""Highway""","""Evening""","""0""",60,1,1,"""Unspecified""","""Dry""","""Car""",29,22,"""Artificial Light""",0
+Rainy,"""Highway""","""Evening""","""1.0""",50,3,1,"""High""","""Icy""","""Car""",61,60,"""Daylight""",0
+Clear,"""Highway""","""Unknown""","""2.0""",60,1,1,"""Low""","""Dry""","""Car""",36,27,"""Artificial Light""",0
+Rainy,"""City Road""","""Afternoon""","""0.0""",60,2,0,"""Low""","""Icy""","""Car""",65,62,"""Artificial Light""",0
+Rainy,"""Highway""","""Evening""","""1.0""",50,1,0,"""Low""","""Dry""","""Truck""",19,10,"""Artificial Light""",1
+Clear,"""City Road""","""Evening""","""0.0""",30,1,0,"""Low""","""Wet""","""Car""",33,25,"""Daylight""",0
+Rainy,"""City Road""","""Evening""","""2.0""",50,1,0,"""Low""","""Dry""","""Car""",53,44,"""Daylight""",0
+Rainy,"""Rural Road""","""Morning""","""0""",50,5,0,"""Moderate""","""Wet""","""Car""",50,42,"""Artificial Light""",0
+Snowy,"""Highway""","""Morning""","""2.0""",60,2,0,"""Low""","""Dry""","""Motorcycle""",26,24,"""Artificial Light""",0
+Clear,"""Highway""","""Afternoon""","""2.0""",100,4,0,"""Low""","""Dry""","""Motorcycle""",56,52,"""Artificial Light""",0
+Clear,"""Highway""","""Morning""","""1.0""",50,5,1,"""Low""","""Dry""","""Truck""",51,47,"""Artificial Light""",0
+Foggy,"""City Road""","""Evening""","""2.0""",50,3,0,"""Moderate""","""Not Determind""","""Car""",19,13,"""Artificial Light""",0
+Stormy,"""Highway""","""Afternoon""","""0.0""",60,5,1,"""Moderate""","""Not Determind""","""Truck""",18,10,"""Artificial Light""",0
+Snowy,"""Highway""","""Afternoon""","""1.0""",100,2,0,"""Low""","""Icy""","""Car""",34,27,"""Daylight""",1
+Clear,"""Highway""","""Evening""","""1.0""",80,3,0,"""Moderate""","""Dry""","""Bus""",34,26,"""Artificial Light""",0
+Snowy,"""Highway""","""Afternoon""","""0.0""",60,2,0,"""Low""","""Dry""","""Car""",48,40,"""Artificial Light""",0
+Snowy,"""Highway""","""Afternoon""","""1.0""",50,4,0,"""Unspecified""","""Wet""","""Car""",49,44,"""Artificial Light""",0
+Foggy,"""Rural Road""","""Afternoon""","""0.0""",100,3,0,"""Low""","""Dry""","""Car""",66,62,"""Daylight""",0
+Clear,"""City Road""","""Afternoon""","""2.0""",60,2,0,"""Low""","""Dry""","""Bus""",35,27,"""Unknown""",1
+Rainy,"""Rural Road""","""Afternoon""","""2.0""",50,1,0,"""Low""","""Wet""","""Car""",50,46,"""Artificial Light""",0
+Stormy,"""City Road""","""Afternoon""","""0.0""",60,1,0,"""Low""","""Under Construction""","""Motorcycle""",44,38,"""No Light""",1
+Clear,"""Highway""","""Unknown""","""1.0""",50,2,0,"""Moderate""","""Under Construction""","""Car""",65,62,"""Artificial Light""",0
+Clear,"""Highway""","""Afternoon""","""0.0""",80,1,0,"""Low""","""Dry""","""Car""",50,50,"""Unknown""",1
+Snowy,"""Not Determined""","""Unknown""","""0.0""",80,2,0,"""Low""","""Under Construction""","""Car""",35,29,"""Daylight""",1
+Clear,"""City Road""","""Evening""","""0.0""",60,2,0,"""Low""","""Wet""","""Car""",23,17,"""Daylight""",0
+Snowy,"""Rural Road""","""Afternoon""","""2.0""",100,4,0,"""Low""","""Dry""","""Car""",40,36,"""Daylight""",1
+Rainy,"""City Road""","""Morning""","""1.0""",120,3,1,"""Low""","""Icy""","""Unknown""",54,49,"""No Light""",1
+Rainy,"""Highway""","""Afternoon""","""0.0""",80,5,0,"""Low""","""Dry""","""Truck""",39,38,"""Artificial Light""",0
+Clear,"""Highway""","""Morning""","""0""",100,5,0,"""Low""","""Wet""","""Truck""",69,61,"""Daylight""",0
+Rainy,"""City Road""","""Evening""","""1.0""",100,2,0,"""Low""","""Not Determind""","""Unknown""",67,67,"""Artificial Light""",0
+Clear,"""City Road""","""Evening""","""0""",120,3,0,"""Low""","""Not Determind""","""Car""",25,17,"""Artificial Light""",0
+Clear,"""City Road""","""Evening""","""2.0""",60,4,0,"""Moderate""","""Not Determind""","""Car""",66,60,"""Artificial Light""",0
+Clear,"""City Road""","""Afternoon""","""1.0""",60,3,0,"""Low""","""Under Construction""","""Car""",67,65,"""Artificial Light""",0
+Rainy,"""Highway""","""Night""","""1.0""",100,1,0,"""Low""","""Under Construction""","""Car""",53,53,"""Artificial Light""",1
+Clear,"""Rural Road""","""Afternoon""","""2.0""",80,3,0,"""Moderate""","""Not Determind""","""Car""",36,31,"""Daylight""",1
+Clear,"""City Road""","""Night""","""1.0""",50,5,0,"""Unspecified""","""Dry""","""Car""",25,17,"""Daylight""",0
+Stormy,"""Highway""","""Night""","""1.0""",50,4,1,"""Low""","""Under Construction""","""Motorcycle""",68,64,"""Artificial Light""",0
+Clear,"""Highway""","""Afternoon""","""2.0""",80,2,0,"""Moderate""","""Not Determind""","""Bus""",24,22,"""Daylight""",0
+Rainy,"""Highway""","""Morning""","""0.0""",30,1,0,"""High""","""Dry""","""Car""",69,62,"""Artificial Light""",0
+Clear,"""City Road""","""Afternoon""","""1.0""",60,2,0,"""Low""","""Under Construction""","""Car""",57,55,"""Artificial Light""",0
+Rainy,"""Highway""","""Night""","""2.0""",80,3,0,"""Low""","""Not Determind""","""Car""",53,51,"""Artificial Light""",0
+Foggy,"""Rural Road""","""Evening""","""0.0""",50,1,0,"""Low""","""Dry""","""Car""",23,17,"""Daylight""",0
+Rainy,"""City Road""","""Afternoon""","""1.0""",80,1,0,"""Low""","""Wet""","""Car""",43,42,"""Artificial Light""",1
+Snowy,"""Rural Road""","""Night""","""1.0""",80,4,0,"""Low""","""Under Construction""","""Car""",48,39,"""Artificial Light""",0
+Clear,"""Highway""","""Unknown""","""0.0""",50,4,0,"""Low""","""Wet""","""Car""",58,56,"""Daylight""",0
+Stormy,"""City Road""","""Afternoon""","""1.0""",100,2,0,"""High""","""Wet""","""Car""",68,62,"""Daylight""",0
+Clear,"""City Road""","""Afternoon""","""0.0""",100,5,0,"""Low""","""Icy""","""Car""",33,31,"""Artificial Light""",0
+Clear,"""Highway""","""Afternoon""","""2.0""",80,4,0,"""Low""","""Under Construction""","""Truck""",31,27,"""Artificial Light""",0
+Foggy,"""Highway""","""Afternoon""","""1.0""",120,2,1,"""Low""","""Dry""","""Bus""",46,40,"""Daylight""",0
+Unknown,"""Not Determined""","""Morning""","""0.0""",60,1,1,"""Low""","""Icy""","""Truck""",28,20,"""Unknown""",0
+Clear,"""City Road""","""Afternoon""","""1.0""",60,5,0,"""Low""","""Dry""","""Truck""",23,14,"""Daylight""",0
+Rainy,"""City Road""","""Unknown""","""0.0""",80,4,0,"""Moderate""","""Icy""","""Car""",33,30,"""Daylight""",1
+Rainy,"""Highway""","""Night""","""1.0""",60,5,0,"""Moderate""","""Dry""","""Car""",27,22,"""Artificial Light""",1
+Unknown,"""Not Determined""","""Evening""","""0""",60,2,0,"""Unspecified""","""Dry""","""Car""",32,26,"""No Light""",0
+Foggy,"""Highway""","""Evening""","""1.0""",60,3,0,"""Moderate""","""Icy""","""Car""",61,56,"""Artificial Light""",0
+Foggy,"""City Road""","""Afternoon""","""0.0""",100,2,0,"""Moderate""","""Under Construction""","""Car""",37,37,"""Artificial Light""",0
+Stormy,"""City Road""","""Unknown""","""0.0""",80,1,0,"""Moderate""","""Icy""","""Car""",57,48,"""Artificial Light""",1
+Rainy,"""Highway""","""Afternoon""","""1.0""",80,1,0,"""High""","""Dry""","""Truck""",24,23,"""No Light""",0
+Clear,"""City Road""","""Afternoon""","""1.0""",50,5,0,"""Moderate""","""Dry""","""Unknown""",25,18,"""Daylight""",0
+Clear,"""Highway""","""Afternoon""","""1.0""",100,2,1,"""Moderate""","""Wet""","""Car""",56,51,"""Artificial Light""",0
+Clear,"""City Road""","""Afternoon""","""2.0""",100,3,0,"""Low""","""Dry""","""Car""",21,12,"""Artificial Light""",0
+Foggy,"""City Road""","""Morning""","""1.0""",80,3,0,"""Moderate""","""Dry""","""Car""",21,16,"""Artificial Light""",0
+Clear,"""Highway""","""Morning""","""1.0""",100,2,0,"""Moderate""","""Wet""","""Car""",56,48,"""Artificial Light""",1
+Snowy,"""City Road""","""Evening""","""1.0""",50,3,0,"""Unspecified""","""Wet""","""Car""",18,12,"""Artificial Light""",0
+Clear,"""Highway""","""Night""","""2.0""",30,4,0,"""Low""","""Dry""","""Car""",23,15,"""Daylight""",0
+Rainy,"""Rural Road""","""Evening""","""2.0""",60,4,0,"""Low""","""Dry""","""Motorcycle""",52,46,"""Daylight""",1
+Foggy,"""Highway""","""Afternoon""","""2.0""",60,3,0,"""Low""","""Dry""","""Car""",25,19,"""Artificial Light""",0
+Clear,"""Highway""","""Afternoon""","""1.0""",60,4,0,"""Low""","""Dry""","""Motorcycle""",29,21,"""Artificial Light""",0
